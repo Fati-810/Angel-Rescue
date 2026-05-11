@@ -7,28 +7,28 @@ The site was originally built using WordPress and later exported as a static web
 
 ## Features
 
-- 🐶 **Responsive Design**  
+🐶 **Responsive Design**  
   Fully responsive layout optimized for desktop, tablet, and mobile devices.
 
-- 🏠 **Rescue & Adoption Support**  
+🏠 **Rescue & Adoption Support**  
   Dedicated sections highlighting pet rescue, rehabilitation, and adoption services.
 
-- 🍖 **Pet Care Information**  
+🍖 **Pet Care Information**  
   Includes helpful rescue care categories such as nutrition, preparation, and training.
 
-- 📱 **User-Friendly Navigation**  
+📱 **User-Friendly Navigation**  
   Clean and organized navigation menu for a smooth browsing experience.
 
-- ❤️ **Donation & Support Focus**  
+❤️ **Donation & Support Focus**  
   Designed to encourage visitors to donate, volunteer, and support rescue efforts.
 
-- 📄 **Essential Website Pages**  
+📄 **Essential Website Pages**  
   Includes About, Contact, Privacy Policy, and Terms & Conditions pages.
 
-- 🌐 **Static Website Deployment**  
+🌐 **Static Website Deployment**  
   Exported as a static website and hosted on GitHub Pages for fast performance.
 
-- ✨ **Clean Modern Interface**  
+✨ **Clean Modern Interface**  
   Minimal and visually appealing design with easy-to-read content sections.
   
 ## Pages / Sections
@@ -44,7 +44,7 @@ The site was originally built using WordPress and later exported as a static web
 - Privacy Policy
 - Terms and Conditions
 
-## Technologies OverView (Behind the Scenes):
+## Technival Overview (Behind the Scenes):
 
 - HTML5
 - CSS3
