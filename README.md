@@ -2,7 +2,7 @@
 
 Angel Rescue is a responsive website created for a dog rescue and adoption organization. The website presents the mission, rescue care services, adoption support, and ways people can help dogs in need.
 
-The site was originally built using WordPress and later exported as a static website to be hosted on GitHub Pages.
+⚠️ The site was originally built using WordPress and later exported as a static website to be hosted on GitHub Pages.
 
 
 ## Features:
